@@ -1,0 +1,4 @@
+# Core dependencies for gdelt_bulk_downloader.py
+requests>=2.31.0
+tqdm>=4.66.0
+typing_extensions>=4.0; python_version < "3.10"
