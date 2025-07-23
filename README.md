@@ -35,7 +35,7 @@ A high‑throughput Python utility that downloads every [GDELT Project](https://
 ## Quick Start
 
 ```bash
-git clone https://github.com/<you>/gdelt-bulk-downloader.git
+git clone https://github.com/AskRemind/Gdelt-Bulk-Downloader.git
 cd gdelt-bulk-downloader
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt               # requests, tqdm
